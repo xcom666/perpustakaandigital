@@ -12,6 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [Write Yourself a Scheme in 48 Hours](ebook/Write Yourself a Scheme in 48 Hours.pdf) – Jonathan Tang (2007)
 9. [UK Cybersecurity Report 2022](ebook/UK Cybersecurity Report 2022.pdf) – Paolo Sartori (2022)
 10. [Wisdom of the Aged](ebook/Wisdom of the Aged.pdf) – Craig Hattersley (2021)
-11. [UGC_Jaka Permana](ebook/UGC_Jaka Permana.pdf) – Jaka.P (2026) 
+11. [UGC Jaka Permana](ebook/UGC_Jaka Permana.pdf) – Jaka.P (2026) 
 ---
 *Powered by GitHub Pages*
