@@ -3,6 +3,8 @@ Jaka Permana
 
 NIM : 13040124140102
 
+Kelas C
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
